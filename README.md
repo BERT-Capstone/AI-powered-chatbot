@@ -1,8 +1,9 @@
+**AI-Powered Remittance Chatbot by Team BERT HDSC Spring '24 Cohort**
 ![image](https://github.com/user-attachments/assets/29952299-0a77-4926-af27-bf1831f8bd30)
 
 
-**AI-Powered Remittance Chatbot by Team BERT HDSC Spring '24 Cohort**
-in today's interconnected world, remittances have become a financial lifeline for millions of families, particularly in developing countries. These cross-border financial transfers, sent by migrant workers to their home countries, play a crucial role in supporting livelihoods and driving economic development. However, the complexity of remittance processes, varying costs, and ever-changing regulations often pose significant challenges for both senders and recipients. Enter the AI-powered Remittance Chatbot—a revolutionary tool designed to simplify and streamline remittance services.
+
+In today's interconnected world, remittances have become a financial lifeline for millions of families, particularly in developing countries. These cross-border financial transfers, sent by migrant workers to their home countries, play a crucial role in supporting livelihoods and driving economic development. However, the complexity of remittance processes, varying costs, and ever-changing regulations often pose significant challenges for both senders and recipients. Enter the AI-powered Remittance Chatbot—a revolutionary tool designed to simplify and streamline remittance services.
 
 *Introducing the Remittance Chatbot*
 
@@ -22,4 +23,4 @@ The development of the Remittance Chatbot followed a systematic approach, incorp
 
 * Model Exploration and Implementation: Various NLP and machine learning approaches were explored, including models from Langchain, OLLAMA, Hugging Face, and OpenAI. After rigorous evaluation, the GPT-3.5-Turbo model was selected for its superior performance.
 
-* Local Deployment and Testing: The chatbot was deployed locally using Streamlit, a popular Python library for creating web applications. Initial testing showed promising results in terms of user interaction and query response accuracy.
+* Local Deployment and Testing: The chatbot was deployed locally using Streamlit, a popular Python library for creating web applications. Final testing showed promising results in terms of user interaction and query response accuracy.
