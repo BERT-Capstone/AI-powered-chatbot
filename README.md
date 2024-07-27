@@ -24,3 +24,5 @@ The development of the Remittance Chatbot followed a systematic approach, incorp
 * Model Exploration and Implementation: Various NLP and machine learning approaches were explored, including models from Langchain, OLLAMA, Hugging Face, and OpenAI. After rigorous evaluation, the GPT-3.5-Turbo model was selected for its superior performance.
 
 * Local Deployment and Testing: The chatbot was deployed locally using Streamlit, a popular Python library for creating web applications. Final testing showed promising results in terms of user interaction and query response accuracy.
+
+# Please note MainApp.py is main app that is deployed. 
