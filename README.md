@@ -25,4 +25,4 @@ The development of the Remittance Chatbot followed a systematic approach, incorp
 
 * Local Deployment and Testing: The chatbot was deployed locally using Streamlit, a popular Python library for creating web applications. Final testing showed promising results in terms of user interaction and query response accuracy.
 
-# Please note MainApp.py is main app that is deployed. 
+# Please note MainApp.py is the main app that is deployed. 
